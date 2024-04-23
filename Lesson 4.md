@@ -28,8 +28,8 @@ Okay, in that situation, he looked like a complete idiot.
 | 5  | fast       | быстрый (глянуть разницу можно по ссылке clck.ru/3AFKg2) |
 | 6  | just       | только что, просто |
 | 7  | otherwise  | в противном случае |
-| 8  | straight   | прямо/прямой |
-| 9  | again      | заново/снова |
+| 8  | straight   | прямо / прямой |
+| 9  | again      | заново / снова |
 | 10 | look for   | искать       |
 | 11 | look after | take care of someone or something (Oxford dictionary definition) |
 | 12 | take off   | снимать какую-то одежду, взлетать (чаще всего самолёт, но взлететь может и бизнес, и просмотры в инстаграме) |
