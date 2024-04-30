@@ -41,7 +41,7 @@ Okay, in that situation, he looked like a complete idiot.
 ## Use cases
 1. When I asked where my dress was, they **brought** me a dirty piece of cloth.
 2. At that moment, the idea of being expelled completely slipped my mind.
-3. Нам нужно такое большое количество денег, чтобы мы смогли оплатить ипотеку.<br>We need **such** a big amount of money, so that we can pay the mortgage.
+3. We need **such** a big amount of money, so that we can pay the mortgage.
 4. After a **quick** warm-up, I went to eat something.
 5. I thought it was a **fast** train.
 6. I like to sing, but I'm **just** not able to.
