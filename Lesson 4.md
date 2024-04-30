@@ -40,22 +40,22 @@ Okay, in that situation, he looked like a complete idiot.
 | 17 | etc        | et cetera (Latin)   |
 
 ## Use cases
-1.
-2.
-3. Нам нужно такое большое количество денег, чтобы мы смогли оплатить ипотеку.<br>We need such a big amount of money, so that we can pay the mortgage.
-4.
-5.
-6.
-7.
-8. Let's jump straight to homework = let's get straight to homework.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+1. When I asked where my dress was, they **brought** me a dirty piece of cloth.
+2. At that moment the idea of getting expelled completely fell out of my mind.
+3. Нам нужно такое большое количество денег, чтобы мы смогли оплатить ипотеку.<br>We need **such** a big amount of money, so that we can pay the mortgage.
+4. After a **quick** warm-up, I went to eat.
+5. I thought it was a **fast** train.
+6. I like to sing, but I'm **just** not able to.
+7. I will learn English, **otherwise**, I will fail the final exam.
+8. Let's jump **straight** to homework = let's get **straight** to homework.
+9. After the previous summer, I started learning English **again**.
+10. I **looked** for this dress on the entire internet.
+11. I **look after** my sister every day.
+12. I help children to **take off** their shoes.
+13. I am a very **busy** person, that's why I sleep all the time.
+14. My parents are not **strict**.
+15. I dont like **science**
+16. There's always a busy **schedule** in the camp.
 
 ## What we've learnt:
 **Past Simple against Present Perfect** <br>
