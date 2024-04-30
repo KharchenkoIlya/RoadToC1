@@ -1,7 +1,7 @@
 ## Words to learn (in order of importance)
 | # | Word | Translation / definition |
 |-|-|-|
-| 1  | can must should |  |
+| 1  | modal verbs |  |
 | 2  | for example | к примеру |
 | 3  | as | как, в качестве, будучи |
 | 4  | also | также |
