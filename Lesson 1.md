@@ -1,7 +1,7 @@
 ## Words to learn (in order of importance)
 | # | Word | Translation / definition |
 |-|-|-|
-| 1  | модальные глаголы |  |
+| 1  | can must should |  |
 | 2  | for example | к примеру |
 | 3  | as | как, в качестве, будучи |
 | 4  | also | также |
@@ -25,8 +25,6 @@
 | 22 | complete | полный, завершать |
 | 23 | scholarship | стипендия |
 ## Use cases
-## What we've learnt:
-суффикс -ly превращает прилагательное в наречие
 ## Exam question 1.
 **What transferable skills are the most important in your current situation as a student? Are there any that aren’t important?**<br>
 I use time management to figure out what tasks I should do in the first place.<br>
