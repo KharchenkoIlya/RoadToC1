@@ -14,7 +14,6 @@ Key word in this sentence is "huge". <br>
 You have a soft sofa. <br>
 This hat is very cozy. <br>
 I never understood my teacher. <br>
-В их доме есть правило - снмать обувь. <br>
 There is a rule in their house to take off your shoes. <br>
 Okay, in that situation, he looked like a complete idiot.
 
