@@ -28,7 +28,7 @@
 3. I've noticed the dirt on the dress.
    I've noticed him, but it was too late.
 4. I recently went to the doctor.
-5. 
+5. -
 6. I studied at school for eleven years.
    At that period he could not even move his arm.
 7. The entire house was dirty.
