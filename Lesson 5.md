@@ -21,44 +21,37 @@
 | 18 | thus | таким образом, следовательно (формальное, используем, когда пишем доклады) |
 | 19 | economy | экономика (прилагательное economic) |
 ## Use cases
-1. I will found a good job when I finish university.
+1. I will find a good job when I finish university.
    His body was found in the forest.
 2. All my flowers have grown successfully.
    This child grows so quickly!
 3. I've noticed the dirt on the dress.
    I've noticed him, but it was too late.
-4. I recently went to the doctor
-4. recent
-6. I studied in school during eleven years
-   В этот период он не мог даже рукой пошевелить
+4. I recently went to the doctor.
+5. 
+6. I studied at school for eleven years.
    At that period he could not even move his arm.
-   He couldn't even move his arm during this period.
-7. The entire house was dirty
+7. The entire house was dirty.
    The entire building was on fire.
-8. We conducted an experiment on the lesson.
+8. We conducted an experiment during the lesson.
    He has a rich life experience.
-9. Bread was good quality.
+9. The bread was good quality.
    I want to drink some good quality coffee.
 10. I will achieve success in English.
-    Вы можете достигнуть чего угодно в этой жизни, если вы поверите в себя
-    You can achieve anything in this life, if you belive in yourself
+    You can achieve anything in this life, if you belive in yourselfю
 11. My education includes studying economics.
-12. I participated in mathematics olympiad.
+12. I participated in a mathematics olympiad.
 13. A piece of cake fell on the floor
-    Не могли бы вы, пожалуйста, передать мне кусочек того торта?
     Could you please pass me that piece of cake.
 14. I will always defend animals.
     He defended himself well enough.
 15. I have no enemies.
-    Его главный враг - его страхи
     His biggest enemy is his fears.
 16. I don't think your words are relevant here.
     This word is irrelevant in this context.
-17. I put a bottle with oil on the table.
-    Здесь много масла, я не буду это есть, я на диете
-    Here's a lot of oil, I'm not going to eat this, I'm on a diet.
+17. I put a bottle of oil on the table.
+    There's a lot of oil in this dish, I'm not going to eat this, I'm on a diet.
 18. And thus the statement is proven
-    В итоге, утверждение доказано
     proof - доказательство
     prove - доказывать
 ## What we've learnt:
