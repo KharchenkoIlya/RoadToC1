@@ -21,38 +21,38 @@
 | 18 | thus | таким образом, следовательно (формальное, используем, когда пишем доклады) |
 | 19 | economy | экономика (прилагательное economic) |
 ## Use cases
-1. I will find a good job when I finish university.
+1. I will find a good job when I finish university.<br>
    His body was found in the forest.
-2. All my flowers have grown successfully.
+2. All my flowers have grown successfully.<br>
    This child grows so quickly!
-3. I've noticed the dirt on the dress.
+3. I've noticed the dirt on the dress.<br>
    I've noticed him, but it was too late.
 4. I recently went to the doctor.
 5. 
-6. I studied at school for eleven years.
+6. I studied at school for eleven years.<br>
    At that period he could not even move his arm.
-7. The entire house was dirty.
+7. The entire house was dirty.<br>
    The entire building was on fire.
-8. We conducted an experiment during the lesson.
+8. We conducted an experiment during the lesson.<br>
    He has a rich life experience.
-9. The bread was good quality.
+9. The bread was good quality.<br>
    I want to drink some good quality coffee.
-10. I will achieve success in English.
+10. I will achieve success in English.<br>
     You can achieve anything in this life, if you belive in yourselfю
 11. My education includes studying economics.
 12. I participated in a mathematics olympiad.
-13. A piece of cake fell on the floor
+13. A piece of cake fell on the floor<br>
     Could you please pass me that piece of cake.
-14. I will always defend animals.
+14. I will always defend animals.<br>
     He defended himself well enough.
-15. I have no enemies.
+15. I have no enemies.<br>
     His biggest enemy is his fears.
-16. I don't think your words are relevant here.
+16. I don't think your words are relevant here.<br>
     This word is irrelevant in this context.
-17. I put a bottle of oil on the table.
+17. I put a bottle of oil on the table.<br>
     There's a lot of oil in this dish, I'm not going to eat this, I'm on a diet.
-18. And thus the statement is proven
-    proof - доказательство
+18. And thus the statement is proven <br>
+    proof - доказательство <br>
     prove - доказывать
 ## What we've learnt:
 суффикс -ly превращает прилагательное в наречие
