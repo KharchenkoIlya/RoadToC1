@@ -25,6 +25,7 @@
 | 22 | carefully | заботливо/внимательно |
 | 23 | maintain | поддерживать/сохранять/обслуживать |
 | 24 | manage | управлять/справляться |
+| 25 | develop | развивать |
 
 ## Use cases (to be done at home)
 1.
@@ -50,6 +51,8 @@
 21.
 22.
 23.
+24.
+25.
 
 ## What we've learnt
 Unfortunately, we haven't learnt anything this lesson :(
