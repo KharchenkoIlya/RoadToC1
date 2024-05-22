@@ -18,31 +18,31 @@
 | 15 | fear | страх |
 
 ## Use cases
-1. There were a lot of people on the street on Halloween.
+1. There were a lot of people on the street on Halloween.<br>
   There are a lot of problem with this solution.
-2. I want to go to Saint Petersburg and have fun there during the summer.
+2. I want to go to Saint Petersburg and have fun there during the summer.<br>
   I want to go to Saint Petersburg and have fun there for the entire summer.
-3. I move a little when i relax at sea.
+3. I move a little when i relax at sea.<br>
   He's moving fast!
 4. I do not believe in horoscopes. I believe in science.
-5. The sofa is too big.
+5. The sofa is too big.<br>
   I'm too strong for him.
-6. I don't like to do my homework late.
+6. I don't like to do my homework late.<br>
   He's always late for work. We were late for the train.
-7. I had enough rest yesterday.
+7. I had enough rest yesterday.<br>
   That's enough.
 8. I eat only some specific type of candies.
-9. This cake is definitely the most delicious.
+9. This cake is definitely the most delicious.<br>
   I will definitely succeed.
 10. Success is waiting for me.
-11. My project is the most successful among all my friends.
+11. My project is the most successful among all my friends.<br>
   My project is the most successful in our company.
-12. All children like to build towers.
+12. All children like to build towers.<br>
   It's more difficult to build than to break.
 13. There are new buildings in the city center.
-14. I'm afraid of spiders and darkness.
+14. I'm afraid of spiders and darkness.<br>
   After what he's done, I'm very afraid of him.
-15. Everyone has a fear of public speaking.
+15. Everyone has a fear of public speaking.<br>
   Fearless warrior.
 
 ## What we've learnt:
