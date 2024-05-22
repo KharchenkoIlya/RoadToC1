@@ -29,29 +29,29 @@
 
 ## Use cases (to be done at home)
 1.
-2.
-3.
-4.
-5.
-6.
-7.
+2. And so they agreed to a draw
+3. All the rooms are already booked but we can consider some different options.
+4. 
+5. Despite all the challenges, he still managed to beat everyone.
+6. He told me he did it, although I highly doubt it.
+7. Do you think the whole universe revolves around you?
 8.
 9.
-10.
+10. It's important to find your place in this world.
 11.
 12.
 13.
-14.
+14. I had a perfect opportunity to meet the best football player in the world.
 15.
 16.
-17.
+17. Russia warmly welcomed the foreigners.
 18.
-19.
-20.
-21.
+19. Wait for the success and it will surely come some day
+20. He looked at the sky, breathing hard
+21. Okay u can take it, just dont break it. Fine, Ill be very careful with it.
 22.
-23.
-24.
+23. You should maintain a good posture while sitting at the desk.
+24. Did you manage to do that?
 25.
 
 ## What we've learnt
